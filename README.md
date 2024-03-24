@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **CSS, JavaScript, Tailwind CSS and React.js**
+- 🌱 I’m currently learning **Tailwind CSS and React.js**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
